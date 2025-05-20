@@ -63,13 +63,12 @@ I am also actively exploring the **research and implementation of Generative AI 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) &nbsp;&nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-
 ---
 
 ## 🌐 Let's Connect
 
 - 📫 [Email or Contact Page]
-- 🔗 [LinkedIn](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yonasy/)
 - 🔬 [Google Scholar / ResearchGate / ORCID](#)
 - 🌍 [Personal Website or Lab Homepage](#)
 
