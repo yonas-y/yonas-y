@@ -41,6 +41,7 @@ I am also actively exploring the **research and implementation of Generative AI 
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/) &nbsp;&nbsp;
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/) &nbsp;&nbsp;
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) &nbsp;&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F61?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/) &nbsp;&nbsp;
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) &nbsp;&nbsp;
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 
