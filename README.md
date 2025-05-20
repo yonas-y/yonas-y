@@ -72,8 +72,3 @@ I am also actively exploring the **research and implementation of Generative AI 
 - 🌍 [Personal Website or Lab Homepage](#)
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
