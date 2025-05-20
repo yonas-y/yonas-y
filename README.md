@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yonas Y. Tefera.
 ## 🧠 About Me
 
-I am an academic and researcher with extensive experience in both teaching and interdisciplinary research. I thrive in diverse, collaborative environments that are passionate about advancing knowledge through innovative solutions.
+I am an academician and researcher with extensive experience in both teaching and interdisciplinary research. I thrive in diverse, collaborative environments that are passionate about advancing knowledge through innovative solutions.
 
 My core research interests lie in the **application of Artificial Intelligence (AI)** and **Machine Learning (ML)** across multiple domains, including:
 
