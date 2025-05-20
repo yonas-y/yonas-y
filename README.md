@@ -8,7 +8,6 @@ My core research interests lie in the **application of Artificial Intelligence (
 - 🌐 Internet of Things (IoT)
 - 📡 Sensor Networks
 - 🏥 Health Care
-- 🌾 Smart Technologies
 - 🏭 Industry 4.0
 
 I am also actively exploring the **research and implementation of Generative AI (GenAI)** across a range of emerging application areas.
