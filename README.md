@@ -36,9 +36,32 @@ I am also actively exploring the **research and implementation of Generative AI 
 
 ## 🛠️ Tools & Technologies
 
-`Python` `TensorFlow` `PyTorch` `Scikit-learn`  
-`MATLAB` `R` `Docker` `Git`  
-`LaTeX` `Markdown` `VS Code`
+### 🤖 Machine & Deep Learning
+- [Python](https://www.python.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [R](https://www.r-project.org/)
+
+### 💻 Software Development
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [GitLab](https://about.gitlab.com/)
+- [Docker](https://www.docker.com/)
+- [Python](https://www.python.org/)
+- [Java](https://www.oracle.com/java/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+
+### 🌐 Web Development
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Flask](https://flask.palletsprojects.com/)
+
+### 🗄️ Databases
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+
 
 ---
 
