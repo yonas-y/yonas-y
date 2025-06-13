@@ -18,7 +18,7 @@ I am also actively exploring the **research and implementation of Generative AI 
 
 - Applied AI/ML for real-world systems  
 - Domain-informed learning in data-constrained environments  
-- Cross-disciplinary solutions in smart systems and digital transformation  
+- Cross-disciplinary solutions in smart systems and solutions 
 - Responsible innovation in AI deployments
 - AI bias and fairness
 
