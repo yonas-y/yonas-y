@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Yonas Y. Tefera.
 ## 🧠 About Me
 
 I am an academician and researcher with extensive experience in both teaching and interdisciplinary research. I thrive in diverse, collaborative environments that are passionate about advancing knowledge through innovative solutions.
