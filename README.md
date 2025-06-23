@@ -63,9 +63,6 @@ I am also actively exploring the **research and implementation of Generative AI 
 
 ### ⚙️ MLOps & Experiment Tracking  
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/) &nbsp;&nbsp;
-[![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/) &nbsp;&nbsp;
-[![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/) &nbsp;&nbsp;  
 [![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/)
 
 
