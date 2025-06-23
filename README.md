@@ -61,6 +61,11 @@ I am also actively exploring the **research and implementation of Generative AI 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) &nbsp;&nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
+### ⚙️ MLOps & Experiment Tracking  
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/) &nbsp;&nbsp;  
+[![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/)
+
+
 ---
 
 ## 🌐 Let's Connect
