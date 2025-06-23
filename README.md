@@ -62,9 +62,9 @@ I am also actively exploring the **research and implementation of Generative AI 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### ⚙️ MLOps & Experiment Tracking  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) &nbsp;&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) &nbsp;&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/) &nbsp;&nbsp;
+[![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/) &nbsp;&nbsp;
+[![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/) &nbsp;&nbsp;  
 [![ZenML](https://img.shields.io/badge/ZenML-FD6C9E?style=flat&logo=zenml&logoColor=white)](https://zenml.io/)
 
