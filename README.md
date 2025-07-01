@@ -73,6 +73,5 @@ I am also actively exploring the **research and implementation of Generative AI 
 - 📫 [Email: yonas.yehualaeshet@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yonasy/)
 - 🔬 [ORCID](https://orcid.org/0000-0001-8312-695X)
-- 🌍 [Personal Website or Lab Homepage](#)
 
 ---
