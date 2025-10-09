@@ -8,8 +8,6 @@ My core research interests lie in the **application of Artificial Intelligence (
 - 📡 Sensor Networks
 - 🏭 Industry 4.0
 
-I am also actively exploring the **research and implementation of Generative AI (GenAI)** across a range of emerging application areas.
-
 ---
 
 ## 🔬 Research Focus
@@ -24,7 +22,6 @@ I am also actively exploring the **research and implementation of Generative AI 
 
 ## 🎯 Current Interests
 
-- Generative AI and its practical integrations  
 - Edge-AI for intelligent sensor networks  
 - AI in multi-domain applications
 - Scalable and Robust AI models for Industry 4.0
