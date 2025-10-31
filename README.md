@@ -34,7 +34,6 @@ My core research interests lie in the **application of Artificial Intelligence (
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp;
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) &nbsp;&nbsp;
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/) &nbsp;&nbsp;
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/) &nbsp;&nbsp;
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) &nbsp;&nbsp;
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F61?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/) &nbsp;&nbsp;
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) &nbsp;&nbsp;
@@ -45,7 +44,6 @@ My core research interests lie in the **application of Artificial Intelligence (
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) &nbsp;&nbsp;
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/) &nbsp;&nbsp;
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) &nbsp;&nbsp;
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp;
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/) 
 
 ### 🌐 Web Development  
